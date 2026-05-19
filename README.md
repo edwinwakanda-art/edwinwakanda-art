@@ -1,16 +1,16 @@
 # Halo, Saya Edwin! 👋 
-### Seorang [Profesi Kamu, misal: Frontend Developer / UI/UX Designer / 3D Artist] dari Indonesia 🇮🇩
+### Web Developer & Digital Artist dari Indonesia 🇮🇩
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=50&theme=tokyonight" width="100%" />
 </p>
 
 ## 🚀 Tentang Saya
-- 🔭 Saat ini saya sedang bekerja pada proyek **[Nama Proyek]**
-- 🌱 Saya sedang mendalami **[Teknologi/Skill yang sedang dipelajari]**
-- 🎨 Memiliki ketertarikan kuat dalam dunia seni digital dan pemrograman.
-- 💬 Tanyakan saya tentang **[Keahlian kamu, misal: React, Blender, Web Design]**
-- 📫 Cara menghubungi saya: **[Email kamu]**
+- 🔭 Saat ini saya sedang fokus mengembangkan beberapa proyek web interaktif dan aset 3D.
+- 🌱 Saya sedang mendalami **React.js, Modern CSS, dan 3D Modeling**.
+- 🎨 Memiliki ketertarikan kuat dalam menggabungkan dunia kode (pemrograman) dengan seni digital.
+- 💬 Tanyakan saya tentang **Web Development, UI/UX Design, atau Blender**.
+- 📫 Cara menghubungi saya: Kirim pesan lewat akun sosial media saya di bawah!
 
 ## 🛠️ Teknologi & Tools yang Saya Gunakan
 <p align="left">
@@ -22,15 +22,19 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
+
 ## 📊 Statistik GitHub Saya
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwinwakanda-art&show_icons=true&theme=radial&hide_border=true" alt="Statistik GitHub Edwin" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinwakanda-art&theme=radial&hide_border=true" alt="Streak GitHub Edwin" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edwinwakanda-art&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub Edwin" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinwakanda-art&theme=tokyonight&hide_border=true" alt="Streak GitHub Edwin" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinwakanda-art&layout=compact&theme=radial&hide_border=true" alt="Bahasa Terpopuler" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinwakanda-art&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Terpopuler" width="60%" />
 </p>
+
+---
 
 ## 🌐 Mari Terhubung!
 <p align="left">
