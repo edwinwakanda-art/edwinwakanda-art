@@ -24,17 +24,58 @@
 
 ---
 
-## 📊 Statistik GitHub Saya
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwinwakanda-art&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub Edwin" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinwakanda-art&theme=tokyonight&hide_border=true" alt="Streak GitHub Edwin" width="48%" />
+## 📊 Ringkasan Aktivitas & Keahlian
+
+### 📈 Statistik Kontribusi
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinwakanda-art&theme=tokyonight&hide_border=true" alt="Streak GitHub Edwin" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinwakanda-art&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Terpopuler" width="60%" />
-</p>
+### 💻 Bahasa & Teknologi Terpopuler (Main Stack)
+*Di bawah ini adalah ekosistem teknologi utama yang saya gunakan untuk membangun proyek:*
+
+<table>
+  <tr>
+    <td align="center" width="120px">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br />
+      <sub><b>Frontend Core</b></sub>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /><br />
+      <sub><b>Backend Runtime</b></sub>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br />
+      <sub><b>Language</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🎨 Desain & Seni Digital
+<table>
+  <tr>
+    <td align="center" width="120px">
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /><br />
+      <sub><b>3D Modeling</b></sub>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /><br />
+      <sub><b>UI/UX Design</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
+
+## 🌐 Mari Terhubung!
+<p align="left">
+  <a href="https://linkedin.com/in/username-kamu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/username-kamu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ## 🌐 Mari Terhubung!
 <p align="left">
