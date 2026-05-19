@@ -64,7 +64,7 @@
 
 ### 🐍 Animasi Kontribusi (GitHub Snake Game - Neon Green Edition)
 <p align="center">
-  <img src="https://ssr-contributions-snake.vercel.app/api?username=edwinwakanda-art&theme=dark&color_snake=00ff00&color_bg=000000&color_dots=161b22,00441b,006c27,14a337,10ea43" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
 ### 🔥 Streak Aktivitas
