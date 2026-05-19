@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=edwinwakanda-art&color=007acc&style=flat-square&label=PROFIL+DILIHAT" alt="Visitor Counter" />
+</p>
+
 # Halo, Saya Edwin! 👋 
 ### Web Developer & Digital Artist dari Indonesia 🇮🇩
 
@@ -23,8 +27,16 @@
 </p>
 
 ---
+## 🖼️ Galeri Proyek & Karya Terbaik
+
+Tabel di bawah ini menampilkan beberapa proyek pilihan yang pernah saya kerjakan:
+
+| 💻 Web Development (React & Node) | 🎨 3D Art & UI Design (Blender & Figma) |
+| :---: | :---: |
+| <img src="https://via.placeholder.com/350x200.png?text=Screenshot+Web+Kamu" width="100%"/><br><sub><b>Nama Proyek Web Kamu</b></sub> | <img src="https://via.placeholder.com/350x200.png?text=Render+3D+/+Desain+Figma" width="100%"/><br><sub><b>Nama Karya Seni/Desain</b></sub> |
 
 ## 📊 Ringkasan Aktivitas & Keahlian
+
 
 ### 📈 Statistik Kontribusi
 <p align="left">
@@ -66,6 +78,11 @@
 </table>
 
 ---
+
+### 💡 Quotes Hari Ini
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+</p>
 
 ## 🌐 Mari Terhubung!
 <p align="left">
