@@ -10,6 +10,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=180&section=header&text=Welcome%20to%20My%20Space&fontSize=40&theme=tokyonight" width="100%" />
 </p>
 
+### 🐍 Animasi Kontribusi (GitHub Snake Game - Neon Green Edition)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
+
 ## 🚀 Tentang Saya
 - 🔭 Saat ini saya sedang fokus mengembangkan beberapa proyek web interaktif dan aset 3D.
 - 🌱 Saya sedang mendalami **React.js, Node.js, dan 3D Modeling**.
@@ -62,10 +67,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinwakanda-art&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" />
 </p>
 
-### 🐍 Animasi Kontribusi (GitHub Snake Game - Neon Green Edition)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</p>
 
 ### 🔥 Streak Aktivitas
 <p align="center">
